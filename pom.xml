@@ -31,7 +31,7 @@
     <dependency>
         <groupId>com.google.guava</groupId>
         <artifactId>guava</artifactId>
-        <version>23.0</version>
+        <version>r03</version>
     </dependency>
 
     <!-- itext: old version is used not present on maven central-->
